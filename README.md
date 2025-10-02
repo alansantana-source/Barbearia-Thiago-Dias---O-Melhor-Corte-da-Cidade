@@ -17,3 +17,9 @@
    ## 📱 Contato
    - WhatsApp: (11) 96732-4500
    - Endereço: R. Escrava Isaura, 98 - Jandira/SP
+   
+   
+   ## 🛠️ Desenvolvimento
+   Feito por Alan Santana
+   Projeto desenvolvido com auxílio de IA (Claude/ChatGPT) 
+   para aprendizado e prática de desenvolvimento web e Atividade institucional.
