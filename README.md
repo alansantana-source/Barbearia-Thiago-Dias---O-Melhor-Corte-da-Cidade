@@ -15,9 +15,13 @@
    - Informações de contato
    
    ## 📱 Contato
+   ## Barbearia
+   
    - WhatsApp: (11) 96732-4500
    - Endereço: R. Escrava Isaura, 98 - Jandira/SP
    
+   ## Contato Pessoal
+   - Gmail: Alansantana5455@gmail.com
    
    ## 🛠️ Desenvolvimento
    Feito por Alan Santana
